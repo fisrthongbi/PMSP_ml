@@ -1,0 +1,11 @@
+
+ppython:S117"TRename this local variable "C_i" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÄŸÉøÿÿÿÿ
+qpython:S117"URename this local variable "C_ik" to match the regular expression ^[_a-z][a-z0-9_]*$.(†æè¦úÿÿÿÿ
+lpython:S117"URename this local variable "S_ik" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹³È
+Mpython:S1481#"0Remove the unused local variable "constraint_3".(Ø¾ÚŠşÿÿÿÿ
+Hpython:S1481"0Remove the unused local variable "constraint_1".(¯ê±Ó
+Hpython:S1481'"0Remove the unused local variable "constraint_5".(¯æ
+Hpython:S1481%"0Remove the unused local variable "constraint_4".(”îú—
+Hpython:S1481!"0Remove the unused local variable "constraint_2".(ÖÛƒÑ
+Hpython:S1481("0Remove the unused local variable "constraint_6".(ÏØß‹
+ipython:S1226"QIntroduce a new variable or use its initial value before reassigning 'opt_model'.(ÿï©Ÿ

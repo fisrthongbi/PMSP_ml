@@ -1,0 +1,22 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(ÀÒš
+_python:S2208"GImport only needed names or import the module and then use its members.(çóò´
+vpython:S117"ZRename this local variable "nbrOfJobs" to match the regular expression ^[_a-z][a-z0-9_]*$.(›½Í§ùÿÿÿÿ
+upython:S117"^Rename this local variable "nbrOfMachines" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¡È
+|python:S117"`Rename this local variable "processingTimes" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒë«Åúÿÿÿÿ
+kpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿ÜÀz
+Qpython:S1135"4Complete the task associated to this "TODO" comment.(üıµ¦ûÿÿÿÿ
+6python:S1256"Remove this commented out code.(ÛãÔØ
+apython:S1854¤"HRemove this assignment to local variable 'obj'; the value is never used.(ïÖŠÃ
+ipython:S1854Œ"IRemove this assignment to local variable 'msol'; the value is never used.(Øğ·ô8ÎÄÑÕ1
+vpython:S117Z"ZRename this local variable "nbrOfJobs" to match the regular expression ^[_a-z][a-z0-9_]*$.(›½Í§ùÿÿÿÿ
+upython:S117\"^Rename this local variable "nbrOfMachines" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¡È
+|python:S117^"`Rename this local variable "processingTimes" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒë«Åúÿÿÿÿ
+lpython:S3776V"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(à›è€
+Qpython:S1135W"4Complete the task associated to this "TODO" comment.(üıµ¦ûÿÿÿÿ
+Hpython:S5806z"+Rename this variable; it shadows a builtin.(ùÌ”Ñıÿÿÿÿ
+7python:S125Œ"Remove this commented out code.(Øğ·ô
+}python:S117²"`Rename this local variable "processingTimes" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒë«Åúÿÿÿÿ
+Npython:S1481Å"0Remove the unused local variable "presence_lit".(‘®İ ûÿÿÿÿ
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú­„
+7python:S125ã"Remove this commented out code.(ó…¬ª
